@@ -404,7 +404,7 @@ Degen: Degenerate，赌徒/梭哈的人。
 DEX: Decentralized Exchange，去中心化交易所。  
 DM: Direct Message，私信。  
 DYOR: Do Your Own Research，自己研究，自己负责。  
-FUD: Fear, Uncertainty，and Doubt，过分夸大的市场的消极信息。  
+FUD: Fear,Uncertainty,and Doubt，过分夸大的市场的消极信息。  
 FED: The Federal Reserve 美联储。  
 FDV: Fully Diluted Valuation，即完全稀释估值。  
 FYI: For Your Information，供你参考。  
